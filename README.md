@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rorymalone84
 - 👀 I’m interested in ... with relation to github, Web Development and Software Engineering.
-- 🌱 I’m currently learning ... Building portfolio projects with a focus on Laravel.  Also studying/learning front end JS frameworks, specifically vue.
+- 🌱 I’m currently building portfolio projects with a focus on Laravel (right now, the budget-app).  Also studying/learning front end JS frameworks, specifically vue.
 - 💞️ I’m looking to collaborate on ... Nothing at the moment, I am finishing other projects first.
 - 📫 How to reach me ... rorymalone@live.com
 
